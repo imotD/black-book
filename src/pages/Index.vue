@@ -1,10 +1,10 @@
 <template>
   <Layout class="bg-white">
     <main>
-      <header>
+      <header class="bg-black">
         <div class="max-w-xl md:max-w-3xl xl:max-w-4xl mx-auto text-center px-6 py-10 md:py-32 border-b border-gray-300">
           <h1 class="text-4xl sm:text-5xl md:text-6xl font-sans font-bold mb-1">
-            <g-link to="/" class="text-black"><span class="bg-black text-white">Black</span> Book</g-link>
+            <g-link to="/" class="text-white">Black <span class="bg-red-600 px-2 rounded text-black">Book</span></g-link>
           </h1>
           <p class="text-gray-700 text-lg sm:text-3xl">Thoughts, Restlessness, Expression, and Harsh Speech</p>
         </div>
