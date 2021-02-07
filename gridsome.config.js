@@ -2,7 +2,7 @@ module.exports = {
   siteName: 'Black Book',
   siteDescription: "Journal with feelings - Thoughts, Restlessness, Expression, and Harsh Speech",
   siteUrl: 'https://blackbook.netlify.app/',
-  titleTemplate: `%s | Bleda`,
+  titleTemplate: `%s | Diary Blog`,
   icon: 'src/favicon.png',
 
   transformers: {
