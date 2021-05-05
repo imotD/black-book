@@ -4,7 +4,7 @@ slug:
 description: "Semuanya akan berkembang sendiri"
 date: 2021-02-07 07:12:16
 author: Human
-tags: ['World']
+tags: ['Work']
 cover: false
 fullscreen: false
 ---

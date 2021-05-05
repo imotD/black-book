@@ -4,7 +4,7 @@ slug:
 description: "Kejujuran adalah segalanya"
 date: 2021-03-19 13:17:04
 author: Human
-tags: ['World']
+tags: ['Work']
 cover: false
 fullscreen: false
 ---

@@ -4,7 +4,7 @@ slug:
 description: "lari maratonku sampe gerbang"
 date: 2021-04-09 13:14:52
 author: Human
-tags: ['World']
+tags: ['Work']
 cover: false
 fullscreen: false
 ---
