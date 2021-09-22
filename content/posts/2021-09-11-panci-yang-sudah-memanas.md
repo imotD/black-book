@@ -1,7 +1,7 @@
 ---
 title: "Panci yang sudah Memanas"
 slug:
-description: "Mundur?Bubar ga ya?"
+description: "Mundur ? Bubar ga ya?"
 date: 2021-09-11 19:36:35
 author: Human
 tags: ['Work']
